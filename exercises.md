@@ -6,7 +6,8 @@
 > Cách trả lời: điền câu trả lời ngay bên dưới từng câu hỏi.
 > `grade.py` đếm số câu đã trả lời (15 điểm cho 10 câu).
 >
-> Họ và tên: Võ Đức Tài                  Mã học viên: 2A202603007
+> Họ và tên: Võ Đức Tài                  
+> Mã học viên: 2A202603007
 
 ---
 
